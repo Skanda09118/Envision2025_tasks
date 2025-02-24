@@ -71,6 +71,3 @@ Learn **Git branching** and commit changes.
 
 ---
 ### Dont hesitate to contact us 🤠🤠🤠
-
-
-test addition by skanda
