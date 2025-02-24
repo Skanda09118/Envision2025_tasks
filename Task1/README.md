@@ -1,7 +1,11 @@
 
 ---
 CSV vs Parquet :
-
+CSV is stored as plain text whereas parquet supports columnar compression so it is a more efficient data store
+This makes parquet faster to read and write over as compared to csv.
+Parquet is more open to a variety of complex datatypes such as nested and complex datatypes like arrays, maps,etc.
+Csv is more user friendly than parquet as it is readable without the use of tools like apache drill
+csv  more compatible than parquet
 
 # **Task 1: Understanding Python and Git**
 
