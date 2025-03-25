@@ -68,13 +68,3 @@ git push origin Neural
 
 
 ---
-
-## 🚀 Ready to Get Started?  
-- Set up your repo ✅  
-- Implement ANN in **Keras** ✅  
-- Implement ANN in **PyTorch** ✅  
-- Collaborate & Merge ✅  
-
-This workflow ensures a **structured, collaborative**, and **organized** approach to completing your tasks. 🎯🔥  
-
-Would you like an example of the README structure? 📜
