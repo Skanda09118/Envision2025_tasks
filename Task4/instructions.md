@@ -40,7 +40,7 @@
 Train a Convolutional Neural Network (CNN) to classify images of cats and dogs from the given dataset.  
 
 ## **Dataset**  
-[Microsoft Cats vs Dogs Dataset](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-data)  
+[Microsoft Cats vs Dogs Dataset](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset)  
 
 
 show in ur docs  some sample images like this
